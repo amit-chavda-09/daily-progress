@@ -1,7 +1,8 @@
 # Daily progress
 
 ## 3-oct-2024
-- 
+- java script basic tutorial
+- defination of internet, server, network
 
 ## 2-Oct-2024
 - figma project
