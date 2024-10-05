@@ -1,8 +1,15 @@
 # Daily progress
 
+
+## 4-oct-2024
+- Start a 100 days of code
+- Day 1 / Day 2  
+
+
 ## 3-oct-2024
 - java script basic tutorial
 - defination of internet, server, network
+
 
 ## 2-Oct-2024
 - figma project
